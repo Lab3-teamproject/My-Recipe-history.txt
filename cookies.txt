@@ -1,0 +1,7 @@
+# Commit 1 - Original recipe
+cat > cookies.txt << 'EOF'
+CHOCOLATE CHIP COOKIES
+Ingredients: flour, butter, sugar, eggs, chocolate chips
+Temperature: 350°F
+Time: 12 minutes
+EOF
