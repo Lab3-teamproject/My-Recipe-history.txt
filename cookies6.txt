@@ -8,3 +8,5 @@ Time: 12 minutes
 Yield: 24 cookies
 Tips: Use parchment paper
 EOF
+git commit -am "Commit 6: Add baking tips"
+
