@@ -5,3 +5,4 @@ Ingredients: 2 cups flour, 1 cup butter, 1 cup sugar, 2 eggs, 2 cups chocolate c
 Temperature: 350°F
 Time: 12 minutes
 EOF
+git commit -am "Commmit 2: Add ingredient amounts"
