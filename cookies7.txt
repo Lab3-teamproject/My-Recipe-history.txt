@@ -9,3 +9,5 @@ Yield: 24 cookies
 Tips: Use parchment paper
 Storage: Keep in airtight container
 EOF
+
+git commit -am "Commit 7: Add storage instructions"
