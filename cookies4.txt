@@ -7,3 +7,5 @@ Temperature: 350°F
 Time: 12 minutes
 Yield: 24 cookies
 EOF
+
+git commit -am "Commit 4: Add yield information
