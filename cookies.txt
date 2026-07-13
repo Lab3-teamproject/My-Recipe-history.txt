@@ -6,3 +6,10 @@ Ingredients: flour, butter, sugar, eggs, chocolate chips
 Temperature: 350°F
 Time: 12 minutes
 EOF
+
+git add cookies.txt
+git commit -m "Commit 1: Add original recipe"
+
+
+
+
